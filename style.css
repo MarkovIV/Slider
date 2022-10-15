@@ -11,6 +11,11 @@ body {
   height: 100vh;
 }
 
+p {
+	margin-right: 25%;
+	margin-left: 5%;
+}
+
 .container {
   position: relative;
   overflow: hidden;
